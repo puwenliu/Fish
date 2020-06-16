@@ -1,0 +1,153 @@
+
+jd_qianhaishatan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cy1
+  rotate: false
+  xy: 508, 365
+  size: 190, 39
+  orig: 190, 39
+  offset: 0, 0
+  index: -1
+cy10
+  rotate: true
+  xy: 700, 365
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+cy11
+  rotate: false
+  xy: 508, 406
+  size: 258, 97
+  orig: 258, 97
+  offset: 0, 0
+  index: -1
+cy12
+  rotate: false
+  xy: 544, 290
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+cy13
+  rotate: true
+  xy: 309, 82
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+cy14
+  rotate: false
+  xy: 447, 173
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+cy15
+  rotate: false
+  xy: 353, 87
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+cy16
+  rotate: true
+  xy: 655, 300
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+cy17
+  rotate: true
+  xy: 1, 6
+  size: 186, 239
+  orig: 186, 239
+  offset: 0, 0
+  index: -1
+cy18
+  rotate: false
+  xy: 854, 377
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+cy19
+  rotate: false
+  xy: 1, 363
+  size: 505, 140
+  orig: 505, 152
+  offset: 0, 12
+  index: -1
+cy2
+  rotate: true
+  xy: 242, 1
+  size: 191, 65
+  orig: 191, 65
+  offset: 0, 0
+  index: -1
+cy20
+  rotate: false
+  xy: 1, 194
+  size: 352, 167
+  orig: 352, 167
+  offset: 0, 0
+  index: -1
+cy3
+  rotate: false
+  xy: 544, 250
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+cy4
+  rotate: true
+  xy: 768, 376
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+cy5
+  rotate: true
+  xy: 447, 239
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+cy6
+  rotate: false
+  xy: 697, 329
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+cy7
+  rotate: true
+  xy: 309, 2
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+cy8
+  rotate: false
+  xy: 937, 383
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+cy9
+  rotate: false
+  xy: 768, 445
+  size: 238, 58
+  orig: 238, 58
+  offset: 0, 0
+  index: -1
+z7
+  rotate: true
+  xy: 355, 157
+  size: 204, 90
+  orig: 204, 90
+  offset: 0, 0
+  index: -1

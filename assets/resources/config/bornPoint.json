@@ -1,0 +1,90 @@
+[{
+    "x": 0,
+    "y": 90,
+    "minAngle": -30,
+    "maxAngle": -20
+},
+{
+    "x": 0,
+    "y": 227,
+    "minAngle": -15,
+    "maxAngle": -5
+},
+{
+    "x": 0,
+    "y": 360,
+    "minAngle": -10,
+    "maxAngle": 10
+},
+{
+    "x": 0,
+    "y": 508,
+    "minAngle": 1,
+    "maxAngle": 10
+},
+{
+    "x": 0,
+    "y": 670,
+    "minAngle": 10,
+    "maxAngle": 25
+},
+{
+    "x": 165,
+    "y": 720,
+    "minAngle": 20,
+    "maxAngle": 50
+},
+{
+    "x": 360,
+    "y": 720,
+    "minAngle": 30,
+    "maxAngle": 70
+},
+{
+    "x": 640,
+    "y": 720,
+    "minAngle": 45,
+    "maxAngle": 135
+},
+{
+    "x": 910,
+    "y": 720,
+    "minAngle": 110,
+    "maxAngle": 150
+},
+{
+    "x": 1115,
+    "y": 720,
+    "minAngle": 130,
+    "maxAngle": 160
+},
+{
+    "x": 1280,
+    "y": 670,
+    "minAngle": 155,
+    "maxAngle": 170
+},
+{
+    "x": 1280,
+    "y": 508,
+    "minAngle": 170,
+    "maxAngle": 178
+},
+{
+    "x": 1280,
+    "y": 360,
+    "minAngle": -170,
+    "maxAngle": 170
+},
+{
+    "x": 1280,
+    "y": 227,
+    "minAngle": -175,
+    "maxAngle": -165
+},
+{
+    "x": 1280,
+    "y": 90,
+    "minAngle": -160,
+    "maxAngle": -150
+}]

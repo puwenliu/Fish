@@ -1,0 +1,146 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "score_pop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "pop": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.08
+              },
+              {
+                "frame": 0.12
+              },
+              {
+                "frame": 0.16
+              },
+              {
+                "frame": 0.2
+              },
+              {
+                "frame": 0.24
+              },
+              {
+                "frame": 0.28
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.32,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "score": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "curve": [
+                0.37,
+                -0.54,
+                0.61,
+                1.49
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                0,
+                92
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.04,
+              "value": 254
+            },
+            {
+              "frame": 0.6,
+              "value": 254
+            },
+            {
+              "frame": 0.76,
+              "value": 51.00000000000003
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Label": {}
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8,
+      "func": "hideFX",
+      "params": []
+    }
+  ]
+}
